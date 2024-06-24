@@ -8,12 +8,12 @@ services:
       - "3000:3000"
       - "35729:35729"
     volumes:
-      - ./website/docs:/app/docs
-      # - ./website/blog:/app/website/blog
-      - ./website/core:/app/website/core
-      - ./website/i18n:/app/website/i18n
-      - ./website/pages:/app/website/pages
-      - ./website/static:/app/website/static
-      - ./website/sidebars.json:/app/website/sidebars.json
-      - ./website/siteConfig.js:/app/website/siteConfig.js
+      - ./docs:/app/docs
+      # - ./blog:/app/website/blog
+      - ./core:/app/website/core
+      - ./i18n:/app/website/i18n
+      - ./pages:/app/website/pages
+      - ./static:/app/website/static
+      - ./sidebars.json:/app/website/sidebars.json
+      - ./siteConfig.js:/app/website/siteConfig.js
     working_dir: /app/website

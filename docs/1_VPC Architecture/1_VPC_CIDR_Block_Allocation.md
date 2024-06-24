@@ -1,10 +1,8 @@
 ---
-position: 3
-title: "Detailed VPC CIDR block allocation"
 tags: [infrastructure, terraform, terragrunt, aws, vpc, cidr]
 ---
 
-### Detailed VPC CIDR Block Allocation
+### VPC CIDR Block Allocation
 
 Our VPC CIDR blocks are allocated in a structured manner to ensure clarity and avoid conflicts across different environments. Below are the detailed allocations for development, pre-production, and production environments.
 

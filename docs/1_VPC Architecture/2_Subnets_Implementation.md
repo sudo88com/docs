@@ -1,10 +1,8 @@
 ---
-position: 4
-title: "Design and Implementation of Public and Private Subnets"
 tags: [infrastructure, terraform, terragrunt, aws, subnet, public, private]
 ---
 
-### Design and Implementation of Public and Private Subnets
+### Subnets Implementation
 
 Our VPC design includes both public and private subnets to segregate resources based on their accessibility requirements. Below are the detailed configurations for each environment, showing the VPC CIDR block allocations and subnet details.
 
