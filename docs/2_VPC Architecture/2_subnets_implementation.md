@@ -5,6 +5,8 @@ tags: [infrastructure, terraform, terragrunt, aws, subnet, public, private]
 
 Our VPC design includes both public and private subnets to segregate resources based on their accessibility requirements. Below are the detailed configurations for each environment, showing the VPC CIDR block allocations and subnet details.
 
+[https://github.com/sudo88com/aws-vpc-1](https://github.com/sudo88com/aws-vpc-1)
+
 #### VPC CIDR Blocks
 
 | Environment   | VPC CIDR Block  |
