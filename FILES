@@ -1,0 +1,44 @@
+   517693      4 drwxrwxr-x   7 ubuntu   ubuntu       4096 Jun 28 19:48 .
+   551950      4 -rw-rw-r--   1 ubuntu   ubuntu        186 Jun 28 19:48 ./Makefile
+   517756      4 -rw-rw-r--   1 ubuntu   ubuntu        779 Jun 28 19:16 ./sidebars.js
+   517743      4 -rw-rw-r--   1 ubuntu   ubuntu       1066 Jun 28 19:16 ./LICENSE
+   517752      4 -rw-rw-r--   1 ubuntu   ubuntu       2426 Jun 28 19:16 ./docusaurus.config.js
+   517744      4 -rw-rw-r--   1 ubuntu   ubuntu       1144 Jun 28 19:16 ./README.md
+   517747      4 drwxrwxr-x   3 ubuntu   ubuntu       4096 Jun 28 19:16 ./docs
+   517748      4 -rw-rw-r--   1 ubuntu   ubuntu        654 Jun 28 19:16 ./docs/1_Intro.md
+   517749      4 drwxrwxr-x   2 ubuntu   ubuntu       4096 Jun 28 19:16 ./docs/2_VPC\ Architecture
+   517750      8 -rw-rw-r--   1 ubuntu   ubuntu       5032 Jun 28 19:16 ./docs/2_VPC\ Architecture/1_vpc_cidr_block_allocation.md
+   517751      8 -rw-rw-r--   1 ubuntu   ubuntu       4384 Jun 28 19:16 ./docs/2_VPC\ Architecture/2_subnets_implementation.md
+   517741      4 -rw-rw-r--   1 ubuntu   ubuntu        233 Jun 28 19:16 ./.gitignore
+   517777    344 -rw-rw-r--   1 ubuntu   ubuntu     348465 Jun 28 19:16 ./yarn.lock
+   517758      0 -rw-rw-r--   1 ubuntu   ubuntu          0 Jun 28 19:16 ./siteConfig.js
+   517759      4 drwxrwxr-x   4 ubuntu   ubuntu       4096 Jun 28 19:16 ./src
+   517762      4 drwxrwxr-x   2 ubuntu   ubuntu       4096 Jun 28 19:16 ./src/pages
+   517764      4 -rw-rw-r--   1 ubuntu   ubuntu        118 Jun 28 19:16 ./src/pages/markdown-page.md
+   517763      4 -rw-rw-r--   1 ubuntu   ubuntu        365 Jun 28 19:16 ./src/pages/index.module.css
+   517760      4 drwxrwxr-x   2 ubuntu   ubuntu       4096 Jun 28 19:16 ./src/css
+   517761      4 -rw-rw-r--   1 ubuntu   ubuntu       1042 Jun 28 19:16 ./src/css/custom.css
+   517765      4 drwxrwxr-x   3 ubuntu   ubuntu       4096 Jun 28 19:16 ./static
+   517766      0 -rw-rw-r--   1 ubuntu   ubuntu          0 Jun 28 19:16 ./static/.nojekyll
+   517776      4 -rw-rw-r--   1 ubuntu   ubuntu        391 Jun 28 19:16 ./static/index.html
+   517767      4 drwxrwxr-x   2 ubuntu   ubuntu       4096 Jun 28 19:16 ./static/img
+   517769      8 -rw-rw-r--   1 ubuntu   ubuntu       5142 Jun 28 19:16 ./static/img/docusaurus.png
+   517773     32 -rw-rw-r--   1 ubuntu   ubuntu      31486 Jun 28 19:16 ./static/img/undraw_docusaurus_mountain.svg
+   517772     12 -rw-rw-r--   1 ubuntu   ubuntu      11075 Jun 28 19:16 ./static/img/mstile-150x150.png
+   517774     36 -rw-rw-r--   1 ubuntu   ubuntu      36002 Jun 28 19:16 ./static/img/undraw_docusaurus_react.svg
+   517775     12 -rw-rw-r--   1 ubuntu   ubuntu      11887 Jun 28 19:16 ./static/img/undraw_docusaurus_tree.svg
+   517771      4 -rw-rw-r--   1 ubuntu   ubuntu       1727 Jun 28 19:16 ./static/img/logo.png
+   517768     56 -rw-rw-r--   1 ubuntu   ubuntu      55746 Jun 28 19:16 ./static/img/docusaurus-social-card.jpg
+   517770     12 -rw-rw-r--   1 ubuntu   ubuntu      12014 Jun 28 19:16 ./static/img/favicon.ico
+   517746      4 -rw-rw-r--   1 ubuntu   ubuntu        499 Jun 28 19:16 ./docker-compose.yml
+   517754      4 -rw-rw-r--   1 ubuntu   ubuntu       1058 Jun 28 19:16 ./package.json
+   517742      4 -rw-rw-r--   1 ubuntu   ubuntu        115 Jun 28 19:16 ./Dockerfile
+   517738      4 drwxrwxr-x   3 ubuntu   ubuntu       4096 Jun 28 19:16 ./.github
+   517739      4 drwxrwxr-x   2 ubuntu   ubuntu       4096 Jun 28 19:16 ./.github/workflows
+   517740      4 -rw-rw-r--   1 ubuntu   ubuntu       1509 Jun 28 19:49 ./.github/workflows/deploy_github_pages.yml
+   517755      4 -rw-rw-r--   1 ubuntu   ubuntu        114 Jun 28 19:16 ./renovate.json
+   517753    564 -rw-rw-r--   1 ubuntu   ubuntu     575777 Jun 28 19:16 ./package-lock.json
+   517745      4 -rw-rw-r--   1 ubuntu   ubuntu         89 Jun 28 19:16 ./babel.config.js
+   561896      0 -rw-rw-r--   1 ubuntu   ubuntu          0 Jun 28 19:49 ./FILES
+   517723      4 -rw-rw-r--   1 ubuntu   ubuntu         21 Jun 28 19:16 ./.dockerignore
+   517757      0 -rw-rw-r--   1 ubuntu   ubuntu          0 Jun 28 19:16 ./sidebars.json
