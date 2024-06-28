@@ -1,5 +1,7 @@
 # Website
 
+[![Deploy to GitHub Pages](https://github.com/sudo88com/docs/actions/workflows/deploy_github_pages.yml/badge.svg)](https://github.com/sudo88com/docs/actions/workflows/deploy_github_pages.yml)
+
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 The site is automatically deployed using GitHub Actions. The output is available at [https://sudo88com.github.io/docs/Intro/](https://sudo88com.github.io/docs/Intro/).
